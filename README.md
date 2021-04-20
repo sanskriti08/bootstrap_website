@@ -1,0 +1,2 @@
+# bootstrap_website
+In this project we have created a responsive website of a resturant ‘Ming’s Diner’.This website tells about the resturant and provides user a contact form using which they can make reservations.This website is created using html , css , bootstrap. It has navbar which gives the option of about , reservation , menu , shop. Its footer contains contact form , opening timings and address.
